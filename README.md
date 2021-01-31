@@ -4,11 +4,11 @@ A visualisation of a genetic machine learning algorithm to solve a simple pathfi
 
 **Technologies used:** React, Electron, TypeScript, Webpack
 
-![](./GIFS/start.gif | width=100)
+<img src="./GIFS/start.gif" width="200" />
 
 *starting with random motion*
 
 
-![](./GIFS/end.gif | width=100)
+<img src="./GIFS/end.gif" width="200" />
 
 *continuous optimisation towards the shortest possible path*
